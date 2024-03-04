@@ -1,3 +1,11 @@
+# Access
+- Node0 52.59.221.226
+- Node1 52.28.28.144
+- Node2 35.157.7.232
+- 3.79.236.53
+  # key team1.pem
+
+
 # Deploy a Production Ready Kubernetes Cluster
 
 ![Kubernetes Logo](https://raw.githubusercontent.com/kubernetes-sigs/kubespray/master/docs/img/kubernetes-logo.png)
