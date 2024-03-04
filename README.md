@@ -1,10 +1,10 @@
-# Access
-- Node0 52.59.221.226
-- Node1 52.28.28.144
-- Node2 35.157.7.232
-- Node3 3.79.236.53
+# Access - Private
+- Node0 52.59.221.226 - 192.168.97.196
+- Node1 52.28.28.144 - 192.168.97.195
+- Node2 35.157.7.232 - 192.168.97.162
+- Node3 3.79.236.53 - 192.168.97.150
   # key team1.pem
-- TestMichal 54.93.124.93
+- TestMichal 54.93.124.93 - 192.168.97.109
 
 # Deploy a Production Ready Kubernetes Cluster
 
