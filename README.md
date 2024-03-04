@@ -4,7 +4,7 @@
 - Node2 35.157.7.232
 - Node3 3.79.236.53
   # key team1.pem
-
+- TestMichal 54.93.124.93
 
 # Deploy a Production Ready Kubernetes Cluster
 
